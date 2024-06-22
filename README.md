@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&random=false&width=435&lines=%F0%9F%90%88%E2%80%8D%E2%AC%9BHI+THERE%2C+I'M+YELENA!+%F0%9F%90%BE%F0%9F%90%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=435&lines=Data+analyst)](https://git.io/typing-svg)
+
 
 
 
