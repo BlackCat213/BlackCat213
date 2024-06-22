@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1002&color=923CD7&background=38BFA230&multiline=true&repeat=false&random=false&width=435&lines=%F0%9F%90%88%E2%80%8D%E2%AC%9BHI+THERE%2C+I'M+YELENA!+%F0%9F%90%BE%F0%9F%90%BE" alt="Typing SVG" /></a>
 
 <!--
 **BlackCat213/BlackCat213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
