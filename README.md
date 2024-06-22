@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=700&height=35&lines=My+%F0%9F%8E%AF+is++turning+complex+analyses+into+crystal-clear+insights.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=700&height=35&lines=Passionate+about+creating+informative+and+visually+appealing+data%F0%9F%93%88.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=700&height=35&lines=%F0%9F%A7%B0%3A+Python%2C+SQL%2C+Tableau+and+always+eager+to+explore+new+tools.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=700&height=40&lines=%F0%9F%94%8EIn+the+process+of+seeking+a+new+career+opportunity.)](https://git.io/typing-svg)
 
 
 
