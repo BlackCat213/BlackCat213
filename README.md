@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&random=false&width=435&lines=%F0%9F%90%88%E2%80%8D%E2%AC%9BHI+THERE%2C+I'M+YELENA!+%F0%9F%90%BE%F0%9F%90%BE)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=435&lines=Data+analyst)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=435&lines=My++%F0%9F%8E%AF+is+to+transform+complex+analyses+into+crystal-clear+insights;Passionate+about+creating+informative+and+visually+appealing+data%F0%9F%93%88;%F0%9F%A7%B0%3A+Python%2C+SQL%2C+Tableau+and+always+eager+to+explore+new+tools;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)
+
 
 
 
