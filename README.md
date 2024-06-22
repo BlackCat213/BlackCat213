@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=700&height=40&lines=%F0%9F%90%88%E2%80%8D%E2%AC%9B+HI+THERE%2C+I'M+YELENA!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&random=false&width=700&height=40&lines=%F0%9F%90%88%E2%80%8D%E2%AC%9B+HI+THERE%2C+I'M+YELENA!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=700&lines=Data+analyst+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=16&duration=10000&pause=1300&color=461D67&background=38BFA20F&multiline=true&repeat=false&random=false&width=700&height=35&lines=My+%F0%9F%8E%AF+is++turning+complex+analyses+into+crystal-clear+insights.)](https://git.io/typing-svg)
